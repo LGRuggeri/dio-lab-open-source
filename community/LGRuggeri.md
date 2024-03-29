@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ca5cdd&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+Luiz+Ruggeri;)](https://git.io/typing-svg)
+''[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ca5cdd&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+Luiz+Ruggeri;)](https://git.io/typing-svg)
 
 
 ## Conecte-se Comigo
